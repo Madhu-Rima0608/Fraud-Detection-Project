@@ -1,0 +1,37 @@
+# =========================
+# Dataset (large file)
+# =========================
+creditcard.csv
+*.zip
+*.rar
+
+# =========================
+# Jupyter Notebook checkpoints
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Python cache files
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Virtual environment folders
+# =========================
+venv/
+env/
+.venv/
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# VS Code settings (optional)
+# =========================
+.vscode/
