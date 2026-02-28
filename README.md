@@ -26,6 +26,22 @@ To compare supervised and unsupervised techniques for fraud detection and determ
 
 ---
 
+##  Dataset
+
+The dataset used in this project is publicly available on Kaggle:
+
+🔗 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+Due to GitHub file size limits, the dataset is not included in this repository.
+
+### How to Use:
+
+1. Download the dataset from Kaggle
+2. Place `creditcard.csv` in the root directory of this project
+3. Run the notebook
+
+---
+
 ##  Dataset Information
 
 - PCA-transformed features: V1–V28  
